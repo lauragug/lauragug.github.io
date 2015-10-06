@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Scoring users with RadiumOne
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+RadiumOne is an advertising platform that offers a full spectrum display advertising solution. They serve an agreed upon number of ad impressions at a given cost for the client and, in doing so, hit a pre arranged number of users to go on to purchase the product. RadiumOne proprietary data sources and intelligent targeting algorithms allow them to generate a high conversion rate.
+In this project I explore whether it is possible to gain additional value from unsupervised learning on the site space based on the users that visit each site and the shared users between sites. 
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
