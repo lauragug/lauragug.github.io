@@ -8,5 +8,3 @@ For my [Insight Data Science](http://insightdatascience.com) Project I collabora
 
 Slides are located [here](http://www.slideshare.net/LauraGuglielmini/laura-guglielmini-demo). 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
